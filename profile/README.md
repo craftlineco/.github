@@ -130,7 +130,7 @@ Every repository, commit, and architecture decision follows this principle.
 
 ## 🌐 Digital Presence
 
-[Website](https://craftline.io) | [Docs](https://docs.craftline.io) | [Sales](mailto:sales@craftline.io) | [Support](mailto:support@craftline.io)
+[Website](https://craftline.co) | [Docs](https://docs.craftline.co) | [Sales](mailto:sales@craftline.co) | [Support](mailto:support@craftline.co)
 
 ---
 
