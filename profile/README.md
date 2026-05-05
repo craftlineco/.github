@@ -149,7 +149,37 @@ We craft **systems, experiences, and platforms** that:
 
 ---
 
-## 📈 GitHub Stats
+### 🎯 **Fun Widgets & Extras**
 
-![CraftLine GitHub stats](https://github-readme-stats.vercel.app/api?username=craftlineco&show_icons=true&theme=dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=craftlineco&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=craftlineco&theme=tokyonight&border_radius=5" alt="Coding Streak" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=craftlineco&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+</div>
+
+---
+
+### 🧠 **Code Time & Productivity Stats**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=craftlineco&theme=tokyonight" alt="Profile Details"/>
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=craftlineco&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=craftlineco&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+---
+
+## 📊 **GitHub Stats & Contributions**
+
+<p align="center">
+  <a href="https://github.com/Shakilofficial">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=craftlineco&theme=tokyonight" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=craftlineco&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
