@@ -1,21 +1,23 @@
 ![Banner](https://res.cloudinary.com/dcyupktj6/image/upload/v1772299076/media/image/xg4zysuidkjtkyrzolxz.webp)
 
-# ✨ CraftLine — Crafted Digital Solutions
+# ✨ CraftLine — Crafted Digital Systems
 
 > **Technology should feel crafted, not manufactured.**
 
-Welcome to **CraftLine**, a craft-driven digital studio where **engineering meets empathy**, **strategy sparks innovation**, and every system is built with **precision, intention, and longevity**.
+CraftLine is a **platform engineering studio** focused on building scalable, intelligent, and human-centered digital systems.
+We design and develop products that are not only functional — but **intentional, maintainable, and built to last**.
 
 ---
 
-## 🌍 Who We Are
+## 🧭 Overview
 
 We operate at the intersection of:
 
-| ⚙️ Engineering | 🎨 Design | 🧭 Strategy | 🤝 Human-Centered Thinking |
-| -------------- | --------- | ----------- | -------------------------- |
+| ⚙️ Engineering   | 🎨 Design    | 🧠 Intelligence      | 🧭 Strategy      |
+| ---------------- | ------------ | -------------------- | ---------------- |
+| Scalable systems | Modern UI/UX | AI-powered workflows | Product thinking |
 
-> We are a **platform studio**, not a low-cost agency. We focus on **quality, clarity, and systems that endure**.
+> We don’t just deliver features — we architect **systems and ecosystems**.
 
 ---
 
@@ -23,163 +25,178 @@ We operate at the intersection of:
 
 > “Technology should feel crafted, not manufactured.”
 
-We value:
+We prioritize:
 
-- ✅ Thoughtful over rushed
-- ✅ Systems over shortcuts
-- ✅ Quality over quantity
-- ✅ Long-term value over quick wins
+* Thoughtful engineering over rushed delivery
+* Systems over shortcuts
+* Long-term scalability over quick fixes
+* Clarity over complexity
 
-Every repository, commit, and architecture decision follows this principle.
-
----
-
-## 🏷️ Brand Pillars
-
-| Pillar      | Meaning                               |
-| ----------- | ------------------------------------- |
-| **Craft**   | Precision, attention to detail, pride |
-| **Modern**  | Future-ready tools, global standards  |
-| **Human**   | Warm, approachable, collaborative     |
-| **Premium** | Refined, reliable, enduring solutions |
+Every line of code reflects **intent, structure, and purpose**.
 
 ---
 
-## 🏗️ Core Services
+## 🏗️ What We Build
 
-### Platforms We Build
+### 🚀 Product & Platform Engineering
 
-| Service                         | Description                            | Tech Stack                          |
-| ------------------------------- | -------------------------------------- | ----------------------------------- |
-| 🚀 **Web & SaaS**               | Dashboards, APIs, portals              | Node.js, TypeScript, PostgreSQL     |
-| 📱 **Mobile Apps**              | Cross-platform apps                    | React Native, Flutter, API-first    |
-| 🤖 **AI & Intelligent Systems** | Automation, recommendations            | OpenAI, LangChain, Python ML        |
-| 🎨 **UI/UX & Product Design**   | Wireframes, prototypes, design systems | Figma, Motion, Accessibility-first  |
-| ☁️ **DevOps & Cloud Infra**     | CI/CD, auto-scaling, monitoring        | Docker, AWS, Vercel, GitHub Actions |
+* SaaS applications
+* Admin dashboards
+* API platforms
+* Multi-tenant systems
+
+### 🤖 AI & Intelligent Systems
+
+* AI copilots & assistants
+* Automation pipelines
+* LLM-powered applications
+* Data processing systems
+
+### 📱 Experience Engineering
+
+* Web apps (SSR / SPA)
+* Mobile apps (cross-platform)
+* Design systems & UI libraries
+
+### ☁️ Cloud & Infrastructure
+
+* CI/CD pipelines
+* Scalable cloud deployments
+* Monitoring & observability
+* Performance optimization
 
 ---
 
 ## ⚙️ Technology Stack
 
-### Backend & Systems
+### 🧱 Backend & Core Systems
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
 
-### Databases & Caching
+### 🗄️ Data Layer
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
 
-### Frontend & Mobile
+### 🎨 Frontend & Mobile
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat\&logo=tailwind-css\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
 
-### AI & Machine Learning
+### 🤖 AI Stack
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0078D7?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0078D7?style=flat)
 
-### Cloud & DevOps
+### ☁️ DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazon-aws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
 
 ---
 
-## 📊 Workflow
+## 🧱 Architecture Principles
+
+We follow modern engineering practices:
+
+* API-first architecture
+* Modular monolith → microservices evolution
+* Event-driven systems (queues, streams)
+* Clean architecture & separation of concerns
+* Type-safe systems (end-to-end TypeScript)
+
+---
+
+## 🔄 Workflow
 
 ```
-💡 Idea → 📝 Design → ⚙️ Engineering → 🤖 AI Integration → ☁️ Cloud Deployment → 📈 Analytics & Growth
+💡 Discovery → 🧠 System Design → ⚙️ Engineering → 🤖 AI Integration → ☁️ Deployment → 📈 Monitoring
 ```
 
-- **Integrated, holistic approach** to product development
-- **Cross-functional teams**: Strategy, Design, Engineering, DevOps, AI
-- **Continuous improvement** with CI/CD & telemetry
+### Engineering Practices
+
+* PR-based workflow
+* Code reviews & quality gates
+* CI/CD automation
+* Feature flags & staged rollout
+* Observability-first mindset
 
 ---
 
-## 📂 Repositories
+## 🔐 Security & Reliability
 
-- 🧩 Core Platform Services
-- 🔌 APIs & Integrations
-- 🛠 Internal Tools & Libraries
-- 🚀 Client Solutions
-- 🧪 Experimental Projects
-
-> All repos follow **clean architecture, type-safe code, and documentation-first practices**.
+* JWT authentication & RBAC
+* API rate limiting
+* Secure environment handling
+* Scalable infrastructure
+* Monitoring & alerting systems
 
 ---
 
-## 🔐 Security & Scalability
+## 🤝 Collaboration Model
 
-- RBAC & JWT authentication
-- Audit-ready enterprise architecture
-- Horizontal scaling & Kubernetes-ready
-- CDN-backed media pipelines
-- Database indexing & optimized queries
+We work as a **technical partner**, not just a service provider.
+
+* Transparent communication
+* Agile, iterative delivery
+* Cross-functional collaboration
+* Long-term product ownership
 
 ---
 
-## 🌐 Digital Presence
+## 🧪 Research & Innovation
 
-[Website](https://craftline.co) | [Docs](https://docs.craftline.co) | [Sales](mailto:sales@craftline.co) | [Support](mailto:support@craftline.co)
+We actively explore:
+
+* AI-native SaaS platforms
+* Developer tools
+* Automation systems
+* Scalable architectures
+* Performance engineering
+
+---
+
+## 🌐 Ecosystem
+
+* 🌍 Website: https://craftline.co
+---
+
+## 🏷️ Brand Principles
+
+| Principle | Meaning                         |
+| --------- | ------------------------------- |
+| Craft     | Precision & attention to detail |
+| Clarity   | Simple, understandable systems  |
+| Scale     | Built for growth                |
+| Trust     | Reliable & maintainable         |
 
 ---
 
 ## 🌟 The CraftLine Promise
 
-We craft **systems, experiences, and platforms** that:
+We build systems that are:
 
-- Last over time
-- Scale with business growth
-- Delight users with simplicity
-- Foster trusted partnerships
-
-**Built with intention. Powered by clarity. Crafted for scale.**
+* Scalable
+* Maintainable
+* Performant
+* Human-centered
 
 ---
 
-### 🎯 **Fun Widgets & Extras**
+## 📣 Final Note
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=craftlineco&theme=tokyonight&border_radius=5" alt="Coding Streak" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=craftlineco&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-</div>
+> We don’t build software for today —
+> we design systems for the future.
 
 ---
 
-### 🧠 **Code Time & Productivity Stats**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=craftlineco&theme=tokyonight" alt="Profile Details"/>
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=craftlineco&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=craftlineco&theme=tokyonight" alt="Most Commit Language"/>
-</div>
-
----
-
-## 📊 **GitHub Stats & Contributions**
-
-<p align="center">
-  <a href="https://github.com/Shakilofficial">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=craftlineco&theme=tokyonight" alt="GitHub Activity Graph"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=craftlineco&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
+**CraftLine — Crafted with precision. Built to scale.**
